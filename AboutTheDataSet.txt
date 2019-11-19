@@ -1,10 +1,12 @@
-Context
+##About the Data set
+
+#Context
 The Bureau of Transportation Statistics (BTS) Border Crossing Data provide summary statistics for inbound crossings at the U.S.-Canada and the U.S.-Mexico border at the port level. Data are available for trucks, trains, containers, buses, personal vehicles, passengers, and pedestrians. Border crossing data are collected at ports of entry by U.S. Customs and Border Protection (CBP). The data reflect the number of vehicles, containers, passengers or pedestrians entering the United States. CBP does not collect comparable data on outbound crossings. Users seeking data on outbound counts may therefore want to review data from individual bridge operators, border state governments, or the Mexican and Canadian governments.
 
-Content
+#Content
 COVERAGE: Incoming vehicle, container, passenger, and pedestrian counts at U.S.-Mexico and U.S.-Canada land border ports.
 
-DEFINITIONS:
+#DEFINITIONS:
 
 Bus Crossings: Number of arriving buses at a particular port, whether or not they are carrying passengers.
 
@@ -30,7 +32,7 @@ Truck Container Crossings (loaded and empty): A container is any conveyance ente
 
 Truck Crossings: Number of arriving trucks; does not include privately owned pick-up trucks.
 
-Notes
+#Notes
 Canada: The ports of entry at Noyes, Minnesota and Whitetail, Montana closed in June 2006 and January 2013, respectively. Incoming Trucks, Incoming PVs, PV Passengers, Incoming Buses, Bus Passengers, and Incoming Pedestrians
 
 o Bar Harbor and Portland, Maine (ferry crossing) - Ferries arrived from May to September. The Bar Harbor, Maine to Yarmouth, Nova Scotia ferry is no longer in operation.
@@ -51,5 +53,5 @@ Incoming Train Passengers: o Includes train crew. BTS is not aware of any passen
 
 o CBP has indicated to BTS that since 2009 train crew are being exchanged at the Texas-Mexico border, and thus do not enter the United States.
 
-Inspiration
+#Inspiration
 What can we discern from this dataset?
